@@ -1,0 +1,12 @@
+How to create a repository and further process
+
+Create a new repository in github
+clone this repo to pc by following way
+create new folder on desktop and open chrome-prompt in this folder by writing cmd in the address bar of the folder
+apply the commond "git clone "your repo url"
+first download the vs-code from google and open it in this folder by applying the commond "code ."
+create file in the vs-code and write something you want
+save it and apply the following commond in chrome-prompt
+git add .
+git cmmit -m "some text"
+git push
